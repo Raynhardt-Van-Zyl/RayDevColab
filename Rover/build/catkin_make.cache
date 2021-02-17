@@ -1,0 +1,2 @@
+mybot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/raynhardt/Documents/meh/RayDevColab/Rover/devel -DCMAKE_INSTALL_PREFIX=/home/raynhardt/Documents/meh/RayDevColab/Rover/install -G Unix Makefiles
